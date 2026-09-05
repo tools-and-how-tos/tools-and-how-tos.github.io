@@ -1,0 +1,4 @@
+---
+layout: default
+---
+<article class="manual"><div class="manual-meta"><span>FIELD MANUAL</span><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%b %-d, %Y" }}</time></div><a class="source-button" href="{{ site.repository_url }}/blob/{{ site.branch }}/{{ page.path }}" target="_blank" rel="noopener">[ MD SOURCE ]</a><h1>{{ page.title }}</h1>{% if page.description %}<p class="lede">{{ page.description }}</p>{% endif %}{% if page.image %}<img class="cover" src="{{ page.image | relative_url }}" alt="{{ page.title }}">{% endif %}<div class="prose">{{ content }}</div></article>

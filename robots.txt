@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tools-and-how-tos.github.io/sitemap.xml

@@ -1,0 +1,17 @@
+title: "Tools and How Tos"
+description: "Clear reviews, useful online tools, and practical how-to guides."
+url: "https://tools-and-how-tos.github.io"
+baseurl: ""
+lang: en
+timezone: UTC
+permalink: /:year/:month/:day/:title/
+markdown: kramdown
+paginate: 30
+paginate_path: "/page/:num/"
+repository_url: "https://github.com/tools-and-how-tos/tools-and-how-tos.github.io"
+branch: main
+author: "Tools and How Tos"
+plugins: [jekyll-feed, jekyll-paginate]
+defaults:
+  - scope: { path: "", type: "posts" }
+    values: { layout: "post" }
