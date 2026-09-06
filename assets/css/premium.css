@@ -1,0 +1,5 @@
+.brand { display: flex !important; align-items: center; gap: 10px; }
+.brand img { width: 54px; height: 54px; object-fit: contain; flex: 0 0 auto; }
+.brand span { display: grid; gap: 3px; }
+.brand em { font-style: normal; }
+@media (max-width: 680px) { .brand img { width: 43px; height: 43px; } }
