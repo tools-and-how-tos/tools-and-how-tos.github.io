@@ -2,7 +2,7 @@
 layout: post
 title: "How to Build a Reusable Shopify Product-Page Content System"
 description: "A practical method for organizing Shopify product details into reusable tabs and mobile accordions without editing theme code product by product."
-date: 2026-09-27 00:32:42 +0000
+date: 2026-09-27 00:33:18 +0000
 categories: [tools, how-to]
 tags: [shopify, product-pages, ecommerce, accessibility, catalog-management]
 canonical_url: ""
