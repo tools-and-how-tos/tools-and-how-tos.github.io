@@ -2,7 +2,7 @@
 layout: post
 title: "How to Make Shopify Product Image Variants Without Replacing the Master"
 description: "Build Shopify-ready product image variants from one protected master using masks, crop rules, and a final fidelity check."
-date: 2026-11-02 17:26:59 +0000
+date: 2026-11-02 17:32:13 +0000
 categories: [tools, how-to]
 tags: [shopify, product-photography, image-editing, ecommerce, imageflow]
 canonical_url: ""
@@ -74,7 +74,7 @@ Before upload, compare the derivative against the master at full size. I use fou
 
 ![Final product image proof sheet with crop and fidelity checks](/assets/img/posts/2026-11-02-how-to-make-shopify-product-image-variants-without-replacing-the-maste/image-03-77443760f3ba.webp)
 
-If any answer is no, return to the editable working file. Do not patch the exported JPEG. The same principle applies when a listing has many image changes: a [variation audit before bulk editing Etsy listings](https://the-lean-ecommerce.github.io/2026/10/07/i-ran-a-variation-audit-before-editing-my-etsy-listings-in-bulk/) is a useful reminder that a small naming decision can become a catalog-wide mistake.
+If any answer is no, return to the editable working file. Do not patch the exported JPEG. The same principle applies when a listing has many image changes: a [PSD handoff check before exporting ecommerce assets](https://tools-and-how-tos.github.io/2026/10/27/how-to-check-a-psd-handoff-before-exporting-ecommerce-assets/) is a useful reminder that a small naming decision can become a catalog-wide mistake.
 
 ## Export only after the preview passes
 
